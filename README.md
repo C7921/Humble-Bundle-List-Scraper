@@ -6,7 +6,7 @@ Always recommend donating and this is not meant to get around that. I just wante
 ## Usage
 1. Change URL in `main()` to whatever bundle link. Works with books, games, and software but was designed for books. Also add/remove the list of charity names in `main()` they are just there so not to appear in the list of items in the bundle. No easy way I could be bothered to find to remove them.
 
-2. Run with `python humble-bundle-list-scraper.py`
+2. Run with `python humble-bundle-list-scraper.py` (You will need to have [BeautifulSoup installed]([url](https://beautiful-soup-4.readthedocs.io/en/latest/))) 
 
 3. Get a nicely formatted list created in the same directory.
 
