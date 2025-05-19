@@ -1,4 +1,4 @@
-# Humble-Bundle-List-Scrapper
+# Humble-Bundle-List-Scraper
 Gets a list of the bundle items available on Humble Bundle. Does not get the actual items, just stores a list for reference. 
 
 Always recommend donating and this is not meant to get around that. I just wanted a list of the items in the bundles for reference or as ones to research later as options. Getting all item in the bundles just isn't feasible at times.
