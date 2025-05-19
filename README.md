@@ -4,7 +4,7 @@ Gets a list of the bundle items available on Humble Bundle. Does not get the act
 Always recommend donating and this is not meant to get around that. I just wanted a list of the items in the bundles for reference or as ones to research later as options. Getting all item in the bundles just isn't feasible at times.
 
 ## Usage
-1. Change URL in `main()` to whatever bundle link. Works with books, games, and software but was designed for books.
+1. Change URL in `main()` to whatever bundle link. Works with books, games, and software but was designed for books. Also add/remove the list of charity names in `main()` they are just there so not to appear in the list of items in the bundle. No easy way I could be bothered to find to remove them.
 
 2. Run with `python humble-bundle-list-scraper.py`
 
